@@ -1,0 +1,228 @@
+.{
+    font-family: merri;
+}
+#topmenu{
+    background-color: dodgerblue;
+    color: white;
+    display: flex;
+    margin: 2px 2px 2px 2px;
+    padding: 5px 5px 5px 5px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ 
+
+}
+#topmenu1{
+    padding: 15px 30px 5px 30px;
+}
+#topmenu3{
+    padding: 15px 20px 5px 20px;
+}
+li{
+    display: inline;
+    padding: 3px 8px 3px 8px;
+    font-weight: bold;
+    margin: 3px 10px 3px 5px;
+}
+ul{
+    text-align: right;
+}
+    
+#submenu{
+    display: inline-flex ;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    
+    
+}
+@media only screen and (max-width:600px){
+    img{
+        width: 400px;
+    }
+}
+#newtxt{
+    text-align: center;
+    margin: 2px 80px 2px 80px;
+    background-color: rgb(62, 43, 228);
+    color: white;
+
+}
+#new1{
+    text-align: center;
+
+}
+#paragraph{
+    padding: 50px 250px 50px 250px;
+    font-weight: lighter;
+    font-family: merriweather;
+    color: rgb(143, 143, 143);
+    font-weight: 300px;
+    line-height: 1.5em;
+    word-spacing: 3px;
+    
+}
+     #center{
+           width: 1330px;
+           height: 240px;
+           background-color: rgb(24, 104, 223);
+           display: flex;
+           justify-content: space-around;
+           
+           
+    }
+    .subdiv1{
+        margin: 10px 150px 20px 30px ;
+        color: white;
+        font-size: large;
+    }
+    .subdiv2{
+        margin: 10px 150px 20px 30px ;  
+        color:white;
+        font-size: large;
+    }
+    .subdiv3{
+        margin: 10px 150px 20px 30px ;
+        color: white;
+        font-size: large;
+    }
+    .subdiv4{
+        margin: 10px 150px 20px 30px ;
+        color: white;
+        font-size: large;
+    }
+#large{
+    font-size: 2em;
+    font-weight: bold;
+}
+#doing{
+    text-align: center;
+}
+#whatweare{
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 10px 50px 10px 180px;
+    padding: 50px 30px 10px 5px;
+    color: rgb(67, 139, 233);
+    font-weight: 3em;
+    font-size: 2em  ;
+    
+    
+}
+#sadqa{
+   width: 300px;
+   height: 200px;
+   box-shadow:0px 5px 5px 5px gray;
+}
+#walfare{
+     width: 300px;
+     height: 200px;
+     box-shadow:0px 5px 5px 5px gray;
+    
+
+}
+#medical{
+    width: 300px;
+    height: 200px;
+    box-shadow:0px 5px 5px 5px gray;
+}
+#whatweare1{
+    background-color: whitesmoke;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    margin: 10px 50px 10px 180px;
+    padding: 50px 30px 10px 5px;
+    color: rgb(67, 139, 233);
+    font-weight: 3em;
+    font-size: 2em  ;
+}
+
+#dastarkhwan{
+    width: 300px;
+    height: 200px;
+    box-shadow:0px 5px 5px 5px gray;
+}
+#roplant{
+    width: 300px;
+    height: 200px;
+    box-shadow:0px 5px 5px 5px gray;
+}
+#education{
+    width: 300px;
+    height: 200px;
+    box-shadow:0px 5px 5px 5px gray;
+}
+#upcoming{
+    width: 600px;
+    height: 250px;
+    color: rgb(64, 87, 214);
+    background-color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+#hepatitis{
+    display: flex;
+} 
+#laptop{
+    display: flex;
+}
+.one{
+    background-color: white;
+    border: 2px solid rgb(255, 255, 255);
+    margin: 2px 2px 2px 2px ;
+    padding: 5px 5px 5px 5px;
+    
+
+} 
+.two{
+    background-color: white;
+    border: 2px solid white;
+    margin: 2px 2px 2px 40px;
+    padding: 5px 5px 5px 5px;
+
+}
+.three{
+    background-color: white;
+    border: 2px solid white;
+    margin: 10px 2px 2px 2px ;
+    padding: 5px 5px 5px 5px;
+
+}
+.four{
+    background-color: white;
+    border: 2px solid white;
+    margin: 10px 2px 2px 40px;
+    padding: 5px 5px 5px 5px;
+
+}
+#image{
+    text-align: center;
+}
+.img{
+    padding: 5px 5px 5px 5px;
+}
+#footer{
+    background-color: rgb(46, 45, 45);
+    display: flex;
+    
+    padding: 20px 50px 30px 50px ;
+}
+#footer2{
+    color: white;
+    margin: 10px 10px 10px 50px ;
+    
+}
+#footer3{
+    margin: 10px 10px 10px 250px ; 
+    color: rgb(139, 134, 134);
+}
+#wrt{
+    color: rgb(139, 134, 134);
+}
